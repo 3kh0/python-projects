@@ -4,13 +4,13 @@ This is a short collection of Python scripts I made, they do random stuff, and e
 
 ## How to run these
 
-Certainly! Running Python scripts is a straightforward process. Here's a basic guide:
+Here is a guide if you have never run a Python file and do not know how.
 
 ### Install Python
 
 Before you can run Python scripts, you must install Python on your system. You can download the latest version of Python from the official website: [Python Downloads](https://www.python.org/downloads/)
 
-Please make sure you also downloaded the folder with the script you wanted to run. You can use [this tool](https://download-directory.github.io/) to only download one folder.
+Please download the script you want to run. You can use [this tool](https://download-directory.github.io/) to only download one folder.
 
 ### Open a Terminal or Command Prompt
 
