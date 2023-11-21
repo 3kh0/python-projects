@@ -1,0 +1,1 @@
+Generates a decently secure password for stuff, done for a short hackathon.
